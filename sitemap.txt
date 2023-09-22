@@ -3,4 +3,7 @@ http://example.com/2023/09/22/%E6%B5%8B%E8%AF%95/
 http://example.com/2023/09/14/test1/
 http://example.com/2023/09/14/hello-world/
 http://example.com/
-http://example.com/tags/ICPC-CCPC-%E8%93%9D%E6%A1%A5%E6%9D%AF-%E6%9D%BF%E5%AD%90/
+http://example.com/tags/ICPC/
+http://example.com/tags/CCPC/
+http://example.com/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/
+http://example.com/tags/%E6%9D%BF%E5%AD%90/

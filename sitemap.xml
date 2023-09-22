@@ -47,7 +47,28 @@
 
   
   <url>
-    <loc>http://example.com/tags/ICPC-CCPC-%E8%93%9D%E6%A1%A5%E6%9D%AF-%E6%9D%BF%E5%AD%90/</loc>
+    <loc>http://example.com/tags/ICPC/</loc>
+    <lastmod>2023-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/CCPC/</loc>
+    <lastmod>2023-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E8%93%9D%E6%A1%A5%E6%9D%AF/</loc>
+    <lastmod>2023-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E6%9D%BF%E5%AD%90/</loc>
     <lastmod>2023-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
